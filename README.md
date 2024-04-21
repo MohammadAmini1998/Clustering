@@ -1,4 +1,4 @@
-![298aa074-de39-4f9f-ae85-8f3d6c8928c3](https://github.com/MohammadAmini1998/Clustering/assets/49214384/49e44a0c-3229-412a-a005-6d92d5c18cb0)# Clustering Algorithms Implementation in Python
+# Clustering Algorithms Implementation in Python
 
 In this project, we implement several clustering algorithms and analyze the results using an artificial dataset.
 
@@ -29,7 +29,8 @@ The dataset used for this project consists of a number of artificial points crea
 ### Results
 
 
-![Uploading 298aa074-de39-4f9f-ae85-8f3d6c8928c3.p![77e704f7-3934-42c3-a6ff-a39f14988df7](https://github.com/MohammadAmini1998/Clustering/assets/49214384/0d6a2be9-3fa5-47ab-83f6-27ae3069fcdf)
-![ff096290-1e0b-4081-959a-80c07ee93d25](https://github.com/MohammadAmini1998/Clustering/assets/49214384/df02283f-1bdb-47e9-8d49-03cf259fd4bf)
-![bd76ad12-64c7-4faf-97ef-ee1a089abf52](https://github.com/MohammadAmini1998/Clustering/assets/49214384/6aac6443-086d-445d-a439-0f88ef093cfb)
-ng…]()
+
+![bd76ad12-64c7-4faf-97ef-ee1a089abf52](https://github.com/MohammadAmini1998/Clustering/assets/49214384/ae3f27a3-46ad-4b65-afe7-8c2b981f60e3)
+![298aa074-de39-4f9f-ae85-8f3d6c8928c3](https://github.com/MohammadAmini1998/Clustering/assets/49214384/e517effa-0153-4667-bb9b-fb4067e84123)
+![77e704f7-3934-42c3-a6ff-a39f14988df7](https://github.com/MohammadAmini1998/Clustering/assets/49214384/46a2ab2b-29b7-42a5-a3a2-421f9be900b2)
+![ff096290-1e0b-4081-959a-80c07ee93d25](https://github.com/MohammadAmini1998/Clustering/assets/49214384/1b8b8951-9fbd-4819-b8c1-fac4444aa07b)
