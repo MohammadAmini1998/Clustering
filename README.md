@@ -26,3 +26,4 @@ Agglomerative clustering is a hierarchical clustering algorithm that follows a "
 5. **Repeat**: Repeat steps 2-4 until only one cluster remains.
 ### Dataset
 The dataset used for this project consists of a number of artificial points created in the `artificial_data.txt` file. Each line in the file represents a point along with its class label. However, for the purpose of clustering, we only consider the coordinates of the points.
+### Results
