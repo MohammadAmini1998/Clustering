@@ -1,4 +1,4 @@
-# Clustering Algorithms Implementation in Python
+![298aa074-de39-4f9f-ae85-8f3d6c8928c3](https://github.com/MohammadAmini1998/Clustering/assets/49214384/49e44a0c-3229-412a-a005-6d92d5c18cb0)# Clustering Algorithms Implementation in Python
 
 In this project, we implement several clustering algorithms and analyze the results using an artificial dataset.
 
@@ -27,3 +27,9 @@ Agglomerative clustering is a hierarchical clustering algorithm that follows a "
 ### Dataset
 The dataset used for this project consists of a number of artificial points created in the `artificial_data.txt` file. Each line in the file represents a point along with its class label. However, for the purpose of clustering, we only consider the coordinates of the points.
 ### Results
+
+
+![Uploading 298aa074-de39-4f9f-ae85-8f3d6c8928c3.p![77e704f7-3934-42c3-a6ff-a39f14988df7](https://github.com/MohammadAmini1998/Clustering/assets/49214384/0d6a2be9-3fa5-47ab-83f6-27ae3069fcdf)
+![ff096290-1e0b-4081-959a-80c07ee93d25](https://github.com/MohammadAmini1998/Clustering/assets/49214384/df02283f-1bdb-47e9-8d49-03cf259fd4bf)
+![bd76ad12-64c7-4faf-97ef-ee1a089abf52](https://github.com/MohammadAmini1998/Clustering/assets/49214384/6aac6443-086d-445d-a439-0f88ef093cfb)
+ng…]()
