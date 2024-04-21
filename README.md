@@ -29,3 +29,10 @@ The dataset used for this project consists of a number of artificial points crea
 ### Results
 ![77e704f7-3934-42c3-a6ff-a39f14988df7](https://github.com/MohammadAmini1998/Clustering/assets/49214384/cffefdd7-f5c3-457f-9f40-7cb692fb6df9)
 
+### Contributions and Feedback
+I welcome contributions, feedback, and suggestions for improvement! If you have any ideas, questions, or insights regarding this project, feel free to reach out and engage in discussions.
+
+Let's continue exploring the exciting possibilities of Machine Learning together! 🚀
+
+By the way, If you find this project helpful or interesting, please star the repository to show your support! 
+
