@@ -14,3 +14,13 @@ The K-Means algorithm is one of the most popular clustering algorithms. It is an
 2. **Assignment**: Assign each data point to the nearest centroid, forming `k` clusters.
 3. **Update**: Recalculate the centroids of the clusters based on the mean of the data points assigned to each cluster.
 4. **Repeat**: Repeat steps 2 and 3 until convergence, i.e., until the centroids no longer change significantly.
+
+## Agglomerative Clustering Algorithm
+
+Agglomerative clustering is a hierarchical clustering algorithm that follows a "bottom-up" approach. The algorithm starts by treating each data point as a single cluster and then iteratively merges the closest pairs of clusters until only one cluster remains. The main steps of the agglomerative clustering algorithm are as follows:
+
+1. **Initialization**: Start with `n` clusters, each containing one data point.
+2. **Compute Pairwise Distances**: Compute the distance between each pair of clusters.
+3. **Merge Clusters**: Merge the two closest clusters.
+4. **Update Distance Matrix**: Update the pairwise distance matrix.
+5. **Repeat**: Repeat steps 2-4 until only one cluster remains.
