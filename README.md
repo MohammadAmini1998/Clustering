@@ -27,10 +27,5 @@ Agglomerative clustering is a hierarchical clustering algorithm that follows a "
 ### Dataset
 The dataset used for this project consists of a number of artificial points created in the `artificial_data.txt` file. Each line in the file represents a point along with its class label. However, for the purpose of clustering, we only consider the coordinates of the points.
 ### Results
+![77e704f7-3934-42c3-a6ff-a39f14988df7](https://github.com/MohammadAmini1998/Clustering/assets/49214384/cffefdd7-f5c3-457f-9f40-7cb692fb6df9)
 
-
-
-![bd76ad12-64c7-4faf-97ef-ee1a089abf52](https://github.com/MohammadAmini1998/Clustering/assets/49214384/ae3f27a3-46ad-4b65-afe7-8c2b981f60e3)
-![298aa074-de39-4f9f-ae85-8f3d6c8928c3](https://github.com/MohammadAmini1998/Clustering/assets/49214384/e517effa-0153-4667-bb9b-fb4067e84123)
-![77e704f7-3934-42c3-a6ff-a39f14988df7](https://github.com/MohammadAmini1998/Clustering/assets/49214384/46a2ab2b-29b7-42a5-a3a2-421f9be900b2)
-![ff096290-1e0b-4081-959a-80c07ee93d25](https://github.com/MohammadAmini1998/Clustering/assets/49214384/1b8b8951-9fbd-4819-b8c1-fac4444aa07b)
